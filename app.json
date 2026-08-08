@@ -46,7 +46,7 @@
       [
         "expo-notifications",
         {
-          "icon": "./assets/images/play_store_512.png",
+          "icon": "./assets/notifications/ic_stat_hs.png",
           "color": "#0B132B"
         }
       ]
