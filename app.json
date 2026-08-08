@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Housexpertz Service",
+    "name": "HouseXpertz",
     "slug": "housexpertz",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -42,7 +42,14 @@
           }
         }
       ],
-      "expo-secure-store"
+      "expo-secure-store",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/images/play_store_512.png",
+          "color": "#0B132B"
+        }
+      ]
     ],
     "experiments": {
       "typedRoutes": true,
